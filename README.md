@@ -1,5 +1,5 @@
 # Quiz_grades
-A program written in Java to input grades and return grade averages
+A program written in Java to input grades and return grade averages and letter grade
 
 This is my first Java program, it really helped me to learn the java syntax.
 
